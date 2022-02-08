@@ -3,7 +3,7 @@ html{
 }
 *{
     box-sizing: border-box;
-    border: 1px solid;
+    /* border: 1px solid; */
     position: relative;
 }
 a{
@@ -54,6 +54,7 @@ main img{
 }
 .ownname{
     font-weight: bold;
+    color: rgb(52, 133, 133);
 }
 .home-content{
     text-align: left;
