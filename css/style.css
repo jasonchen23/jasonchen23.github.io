@@ -32,8 +32,13 @@ main .row{
 .full{
     height: 100vh;
 }
-main .img1{
+main .img{
     height: 100%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+main img{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
@@ -60,4 +65,5 @@ main .img1{
 vertical-align: -.125em;
 fill: currentColor;
 }
+
   
